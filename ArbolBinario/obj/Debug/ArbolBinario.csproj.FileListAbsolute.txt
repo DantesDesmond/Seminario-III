@@ -1,0 +1,14 @@
+C:\Users\JulianSegura\source\repos\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\JulianSegura\source\repos\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\JulianSegura\source\repos\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\JulianSegura\source\repos\ArbolBinario\obj\Debug\ArbolBinario.csproj.AssemblyReference.cache
+C:\Users\JulianSegura\source\repos\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\JulianSegura\source\repos\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\JulianSegura\source\repos\ArbolBinario\obj\Debug\ArbolBinario.pdb
+C:\Users\elvmedina\Downloads\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe.config
+C:\Users\elvmedina\Downloads\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.exe
+C:\Users\elvmedina\Downloads\ArbolBinario\ArbolBinario\bin\Debug\ArbolBinario.pdb
+C:\Users\elvmedina\Downloads\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csprojAssemblyReference.cache
+C:\Users\elvmedina\Downloads\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.csproj.CoreCompileInputs.cache
+C:\Users\elvmedina\Downloads\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.exe
+C:\Users\elvmedina\Downloads\ArbolBinario\ArbolBinario\obj\Debug\ArbolBinario.pdb
